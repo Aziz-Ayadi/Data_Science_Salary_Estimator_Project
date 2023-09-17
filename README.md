@@ -48,7 +48,7 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 
 ## EDA
 
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.<br>
 <img src='eda_process.png'>
 
 ## Model Building
@@ -66,9 +66,9 @@ I tried three different models:
 
 The Random Forest model far outperformed the other approaches on the test and validation sets.
 
-* <b>Random Forest: </b> MAE=11.22
-* <b>Linear Regression: </b> MAE=18.86
-* <b>Ridge Regression: </b> MAE=19.67
+* <b>Random Forest: </b> MAE=10.95
+* <b>Lasso Regression: </b> MAE=20.77
+* <b>Linear Regression: </b> MAE=19.67
 
 ## Productionization
 
