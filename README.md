@@ -9,7 +9,7 @@
 ## Code and Resources Used
 
 <b>Python Version: </b>3.9<br>
-<b>Packages: </b>selenium, time, pandas, matplotlib, seaborn, wordcloud, numpy, scikit-learn, statsmodels, pickle, Flask, Json, requests
+<b>Packages: </b>selenium, time, pandas, matplotlib, seaborn, wordcloud, numpy, scikit-learn, statsmodels, pickle, Flask, Json, requests<br>
 <b>For Web Framework Requirements: </b><code>pip install -r requirements.txt</code>
 
 ## Web Scraping
